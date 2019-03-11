@@ -1,0 +1,20 @@
+.toggle-background {
+    display: block;
+    margin: 2rem auto 2rem;
+    padding: 1rem;
+    font-size: 2rem;
+    color: white;
+    background-color: #4267b2;
+    border: none;
+    border-radius: 1rem;
+    outline: none;
+}
+
+.toggle-background:focus {
+    box-shadow: 0rem 0rem 0.3rem 0.3rem #BC243C;
+}
+
+.toggle-background:hover {
+    box-shadow: 0rem 0rem 0.5rem 0.5rem rgb(114, 223, 114);
+    cursor: pointer;
+}

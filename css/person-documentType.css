@@ -1,0 +1,30 @@
+#personName {
+    font-weight: bold;
+    text-align: center;
+}
+
+#documentName {
+    margin: 1rem;
+    text-align: center;
+}
+
+.profile-photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+    border: 0.5rem solid transparent;
+    border-radius: 50%;
+    box-shadow: 0rem 0rem 0.5rem 0.5rem #4267b2;
+}
+
+#copyrightOwner {
+    margin-top: 4rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-align: center;
+    color: black;
+}

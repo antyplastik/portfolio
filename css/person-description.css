@@ -1,0 +1,24 @@
+@media (min-width: 768px) {
+    #description {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #description div {
+        width: 30%;
+    }
+}
+
+.containerDesc {
+    margin-top: 2rem;
+}
+
+.containerDesc p {
+    text-align: justify;
+    margin: 0.5rem;
+}
+
+.containerDesc h3 {
+    font-weight: bold;
+    text-align: center;
+}

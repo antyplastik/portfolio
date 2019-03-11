@@ -1,0 +1,17 @@
+.background-white {
+    background-color: white;
+    text-decoration-color: #333;
+}
+
+.background-dark {
+    background-color: #333;
+    text-decoration-color: white;
+}
+
+.background-blue {
+    background-color: #4267b2;
+}
+
+.background-yellow {
+    background-color: #c7900a;
+}
